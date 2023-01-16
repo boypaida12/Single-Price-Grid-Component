@@ -10,6 +10,9 @@ module.exports = {
         'cyan': {
           55: 'hsl(179, 62%, 43%)',
         },
+        'cyan-light': {
+          65: 'hsl(179, 47%, 52%)'
+        },
         'yellow': {
           450: 'hsl(71, 73%, 54%)'
         },
